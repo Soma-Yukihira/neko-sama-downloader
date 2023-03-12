@@ -5,3 +5,4 @@ configparser==5.3.0
 traceback2==1.4.0
 ctypes-callable==1.0.4
 subprocess.run==0.0.8
+requests==2.28.2
